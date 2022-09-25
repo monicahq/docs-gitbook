@@ -18,7 +18,9 @@ Settings are divided into two categories:
 * Account settings.
 
 {% hint style="info" %}
-**User settings** apply only to the logged user. **Account settings** apply to everyone on the account.
+**User settings** apply only to the logged user.&#x20;
+
+**Account settings** apply to everyone on the account.
 {% endhint %}
 
 User settings can only be changed by the logged user. Account settings can only be changed by users with the right permissions.
