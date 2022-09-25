@@ -1,6 +1,6 @@
 # 😄 Introduction
 
-## Key concepts
+## Key concepts and fun
 
 Monica aims to document someone's life. Your life is a series of events that happens to you, and a series of interactions with the people close to you, personally or professionally. By documenting what's happening to you, and what happens to others, we believe we can improve your's life greatly.
 
