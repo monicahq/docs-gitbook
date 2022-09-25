@@ -7,7 +7,7 @@ Monica aims to document someone's life. Your life is a series of events that hap
 At its core, Monica has a few key concepts:
 
 * accounts,
-* vaults,
+* [vaults](broken-reference),
 * contacts.
 
 An account is what users sign up for when they register to Monica. It's the root element of Monica and contains everything needed to manage your data. The person who signs up for an account will be the first administrator of the account. You can add other administrators if you want in the future, but an account needs at least one administrator. You can also add other users who won't be administrators, thus reducing their privileges and preventing them to do damaging actions.
