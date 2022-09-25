@@ -1,4 +1,4 @@
-# 😄 Introduction
+# Meet Monica
 
 ## Key concepts and fun
 

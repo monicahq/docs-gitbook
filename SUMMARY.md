@@ -2,11 +2,11 @@
 
 * [Prologue](README.md)
 
-## Getting started
+## 😇 Getting started
 
 ***
 
-* [😄 Introduction](<README (1).md>)
+* [Meet Monica](<README (1).md>)
 
 ## 🗄 Vaults
 
