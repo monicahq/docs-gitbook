@@ -11,3 +11,7 @@
 ## 🗄 Vaults
 
 * [Introduction](vaults/introduction.md)
+
+## ☸ User & Account settings
+
+* [Introduction](user-and-account-settings/introduction.md)
