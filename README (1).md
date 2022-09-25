@@ -1,6 +1,6 @@
 # Meet Monica
 
-## Key concepts and fun
+## Key concepts
 
 Monica aims to document someone's life. Your life is a series of events that happens to you, and a series of interactions with the people close to you, personally or professionally. By documenting what's happening to you, and what happens to others, we believe we can improve your's life greatly.
 
@@ -18,7 +18,7 @@ A contact is the core data of Monica. It's someone you know (or think you know).
 
 The idea is for you to create contact sheets for each of of the person you want to document in your life. Every piece of information you want to remember about the contact can then be added to the contact entry in Monica.
 
-### Core philosophy of the product <a href="#core-philosophy-of-the-product" id="core-philosophy-of-the-product"></a>
+## Principles <a href="#core-philosophy-of-the-product" id="core-philosophy-of-the-product"></a>
 
 Your life is unique to you. No one else in the entire universe has the same life and values that you have. This is why we have built Monica around the following values:
 
