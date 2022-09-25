@@ -1,4 +1,4 @@
-# 😄 Introduction and test
+# 😄 Introduction
 
 ## Key concepts
 
@@ -9,6 +9,8 @@ At its core, Monica has a few key concepts:
 * accounts,
 * vaults,
 * contacts.
+
+![](.gitbook/assets/440px-Tom\_Cruise\_by\_Gage\_Skidmore\_2.jpg)
 
 An account is what users sign up for when they register to Monica. It's the root element of Monica and contains everything needed to manage your data. The person who signs up for an account will be the first administrator of the account. You can add other administrators if you want in the future, but an account needs at least one administrator. You can also add other users who won't be administrators, thus reducing their privileges and preventing them to do damaging actions.
 
