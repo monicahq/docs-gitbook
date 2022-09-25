@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1609097828576-3b620e86039e?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxzZXR0aW5nc3xlbnwwfHx8fDE2NjQxMTU0NjU&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Introduction
 
 In Monica, we've learned after years and years of working on it that people want to be able to fully customize their experience. Monica is deeply personal, and what I want to manage is different from what you might want to manage, as we have completely different lives and point of views. This is why we take great pride in allowing every single part of Monica to be customizable to everyone's needs.
