@@ -1,6 +1,12 @@
 # Table of contents
 
-* [😄 Introduction](README.md)
+* [Prologue](README.md)
+
+## Getting started
+
+***
+
+* [😄 Introduction](<README (1).md>)
 
 ## 🗄 Vaults
 
