@@ -10,8 +10,6 @@ At its core, Monica has a few key concepts:
 * vaults,
 * contacts.
 
-![](.gitbook/assets/440px-Tom\_Cruise\_by\_Gage\_Skidmore\_2.jpg)
-
 An account is what users sign up for when they register to Monica. It's the root element of Monica and contains everything needed to manage your data. The person who signs up for an account will be the first administrator of the account. You can add other administrators if you want in the future, but an account needs at least one administrator. You can also add other users who won't be administrators, thus reducing their privileges and preventing them to do damaging actions.
 
 A vault hosts user's data – basically contacts, documents etc... An account can have as many vaults as needed. Vaults are private inside an account. This means that other users in the account, even if they are administrators of the account, can't read the data in a vault if there are not part of this vault. They can’t even see that the vault exists.
