@@ -14,12 +14,32 @@ Now imagine an application where you can mix your contact's data with a journal.
 
 With Monica, you can have an extremely tight integration with all your contacts. No other apps can do that.
 
-### Structure
+### Posts, templates and sections
 
 To understand all the possibilities of the journal in Monica, you have to understand its structure, as it's a tiny bit complex.
 
-A journal has **posts**. A **post** is the core of your journal, obviously.
+A journal has **posts**. A **post** is the core of your journal, obviously. This is where you write things down.
 
-A post has a **template**.
+A post has a **template**. A **template** represents the structure of a post.
+
+Your Monica account comes with a **default template**, that you can't modify or delete. The default template is basically the title, and the body of the post.
+
+However, you can create **other templates** that have a different structure. Imagine you want to document a road trip. Or you want to ask yourself a set of questions every day: for instance, how did you feel today, or what are the five positive things that you've done today.&#x20;
+
+Templates allow you to do that. In each template, you can add **sections**. A section is one part of a post, and will have a name that you will see when you create the post.&#x20;
+
+For instance, if you want to document a trip, you can have a template called _Trip_ which will have the following sections:
+
+* New food you've eaten today
+* Things you've done
+* People you've meet
+
+If you want to follow a positive mindset and use the journal to help you be more positive, you could have a template called _Positive attitude_ with the following sections:
+
+* What will I do today to make it great?
+* 3 things I'm grateful for
+* etc...
+
+This makes it a very flexible structure that let you have the kind of posts that you want, and make your journal unique to you and your needs.
 
 [A vault](broken-reference) can have as many journals as needed.&#x20;
