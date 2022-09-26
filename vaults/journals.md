@@ -42,4 +42,25 @@ If you want to follow a positive mindset and use the journal to help you be more
 
 This makes it a very flexible structure that let you have the kind of posts that you want, and make your journal unique to you and your needs.
 
-[A vault](broken-reference) can have as many journals as needed.&#x20;
+## Managing journals
+
+### Creating a journal
+
+[A vault](broken-reference) can have as many journals as you want.
+
+To create a journal, head over the vault, and click on the Journals link in the menu.
+
+{% hint style="info" %}
+A journal can be read by anyone who has access to the vault. However, only contributors and administrators of the vault can manage the journal or the posts.
+{% endhint %}
+
+To create a vault, you need:
+
+* a name,
+* and optional description.
+
+IMAGE
+
+
+
+&#x20;
