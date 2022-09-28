@@ -59,8 +59,44 @@ To create a vault, you need:
 * a name,
 * and optional description.
 
-IMAGE
+\[IMAGE]
 
+## Customizing posts
 
+&#x20;As [explained above](journals.md#posts-templates-and-sections), posts are not limited to a single structure. You can customize the structure at will, and define a structure per post. This is what we call **post templates**.
 
-&#x20;
+Monica comes by default with a template that you can't delete or modify. This is the base template, which contains a text area, and that's it. This is a post in its most basic form.
+
+It also comes with another type of inspirational template. This one can be modified or even deleted if you want.
+
+However, you can create other post templates, and make them as complex as you want them to be, matching your needs.
+
+### Creating a post template
+
+To create a post template, head over to the `Settings / Personalize your account / Post templates` section.
+
+Click on the Add a post template above and give the template a name.
+
+\[IMAGE]
+
+### Managing post templates
+
+Once the template has been created, you can edit it to manage **post sections**. A post section is simply a part of the post. You can have as many sections in a post as needed.
+
+A post template needs **at least** one post section. If a post has no section, there will be simply no place for you to enter any text, therefore defeating the purpose.
+
+To prevent that from ever happening, a post template comes with one post section that you can't delete.
+
+Each post section can have a **label**. Those labels will be displayed when you create a post. However, if a post template has only one section, the label won't be displayed.
+
+You can reposition sections by drag and dropping each section inside a template.
+
+### Deleting a post template
+
+You can choose to delete a post template any time you want.
+
+{% hint style="success" %}
+It's important to understand that deleting a post template won't delete all the posts that match this template. Once a post is created with a template, it will keep this template forever – even if the template is deleted. This is to make sure that no content is ever deleted from your posts.
+{% endhint %}
+
+To delete a post template, head over to the `Settings / Personalize your account / Post templates` section, and click on the Delete button next to a post template.
