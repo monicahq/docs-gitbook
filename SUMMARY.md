@@ -11,7 +11,7 @@
 ## 🗄 Vaults
 
 * [Introduction](vaults/introduction.md)
-* [📰 Journals](vaults/journals.md)
+* [Journals](vaults/journals.md)
 
 ## ☸ User & Account settings
 
