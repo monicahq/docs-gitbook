@@ -1,4 +1,4 @@
-# 📰 Journals
+# Journals
 
 ## Introduction
 
@@ -71,13 +71,15 @@ It also comes with another type of inspirational template. This one can be modif
 
 However, you can create other post templates, and make them as complex as you want them to be, matching your needs.
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-29 at 10.50.40 AM.png" alt=""><figcaption><p>Monica comes with two default templates</p></figcaption></figure>
+
 ### Creating a post template
 
 To create a post template, head over to the `Settings / Personalize your account / Post templates` section.
 
 Click on the Add a post template above and give the template a name.
 
-\[IMAGE]
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-29 at 10.53.13 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Managing post templates
 
