@@ -16,5 +16,6 @@
 ## ☸ User & Account settings
 
 * [Introduction](user-and-account-settings/introduction.md)
-* [Manage currencies](user-and-account-settings/manage-currencies.md)
 * [Manage preferences](user-and-account-settings/manage-preferences.md)
+* [Manage currencies](user-and-account-settings/manage-currencies.md)
+* [Notification channels](user-and-account-settings/notification-channels.md)
