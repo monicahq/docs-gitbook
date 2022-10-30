@@ -4,9 +4,9 @@ Monica lets you setup reminders. You can read more about reminders here.
 
 Reminders, by nature, are meant to be sent somehow, once they are triggered. Monica provides several ways for all users in the account to be notified: via email and Telegram for now, and perhaps in the future: Messenger, Teams, Slack, SMS.
 
-We call this a notification channel. You, as a user, can setup as many notification channels as you like. Also, each user in the account will have different notification channels. It's up to each user of an account to setup his/her own notification channels.
+We call this a notification channel. You, as a user, can setup as many notification channels as you like. Also, each user in the account will have different notification channels. It's up to each user of an account to setup their own notification channels.
 
-By default, upon account creation, each user has had to register an account with his/her email address. This email address will be used as the first notification channel for this user in the account. You can, of course, disable this notification channel if you so desire.
+By default, upon account creation, each user will have to register an account with their email address. This email address will be used as the first notification channel for this user in the account. You can, of course, disable this notification channel if you so desire.
 
 ### Email notification channel <a href="#email-notification-channel" id="email-notification-channel"></a>
 
@@ -32,11 +32,11 @@ Once this is setup, Monica will send a verification email to this email address,
 
 #### Deleting an email address <a href="#deleting-an-email-address" id="deleting-an-email-address"></a>
 
-You can delete an email address. Once it's deleted, you'll never receive notifications on it ever again.
+You can delete an email address. Once it's deleted, you'll stop receiving notifications to that address entirely.
 
 #### Activating/deactivating an email address
 
-Sometimes, you want to be able to deactivate an email address from receiving a notification. Simply click on Deactivate to do so. If it's deactivated, no notification will be send. You can reactivate it anytime you want.
+Sometimes, you want to be able to deactivate an email address from receiving a notification. Simply click on Deactivate to do so. If it's deactivated, no notification will be sent. You can reactivate it anytime you want.
 
 ### Send tests and logs <a href="#send-tests-and-logs" id="send-tests-and-logs"></a>
 
