@@ -1,14 +1,14 @@
 # Manage preferences
 
-In the Settings section, every user in the account can customize his/her account in order to match his/her taste. This happens under `Settings > User preferences`.
+In the Settings section, every user in the account can customize their account in order to match their taste. This happens under `Settings > User preferences`.
 
 {% hint style="info" %}
-Each setting under this section are defined per user, and won't affect other users of the same account.
+Each setting under this section is defined per user, and won't affect other users of the same account.
 {% endhint %}
 
 ### Help display
 
-While we hope Monica is easy to use and doesn't need any explanation, there might be some time where you will want to have more information about a feature. This is exactly the reason we have this documentation portal.
+While we hope Monica is easy to use and doesn't need any explanation, there might be some time where you will want to have more information about a feature. This is exactly why we have this documentation portal.
 
 We've tried to write some help documentation for every feature. Next to each feature, we've added a little question mark, as shown below.
 
@@ -16,11 +16,11 @@ We've tried to write some help documentation for every feature. Next to each fea
 
 Clicking on a link will send you to the right place in the documentation.
 
-For advanced users, this might not be an option that you will use. This is why we've included the possibility to hide completely the help link in the user interface.
+For advanced users, this might not be an option that you will use. This is why we've included the possibility to hide the help link completely in the user interface.
 
 ### Language <a href="#language" id="language"></a>
 
-Monica's original language is in English, but our community has translated the application into other languages. You can change the language whenever you want, and the change will be effective immediately.
+Monica's original language is in English, but our community has translated the application into other languages. You can change the language whenever you want, and the change will take effect immediately.
 
 {% hint style="info" %}
 Sometimes you will notice that some words in the application are not translated to your language. For instance, if you create your account in the English language, Monica will populate the account with default parameters, like the names of tabs that appear on a contact sheet for instance.\
@@ -36,7 +36,7 @@ We want Monica to be as flexible as possible, so we invented a way, perhaps a bi
 Under `Settings > User preferences`, you can define how Monica should represent names for you.
 
 {% hint style="success" %}
-This setting is a personal settings, not an account-wide settings. The way names should be represented is not necessarily the way other users in the same account want to see how names should be displayed. In the same account, users can have different ways of displaying contact names.
+This setting is a personal setting, not an account-wide setting. The way names should be represented is not necessarily the way other users in the same account want to see how names should be displayed. In the same account, users can have different ways of displaying contact names.
 {% endhint %}
 
 #### Use a preset
@@ -86,7 +86,7 @@ If the contact doesn't have one of those field filled, we'll simply ignore the f
 
 ### Date format
 
-Dates, like contact names, is culture-based. Because of that, we've added the possibility the customize the way all the dates are displayed in the application. Once it's set, all the dates, throughout the entire application, will be displayed using your own preference.
+Dates, like contact names, are culture-based. Because of that, we've added the possibility the customize the way all the dates are displayed in the application. Once it's set, all the dates, throughout the entire application, will be displayed using your own preference.
 
 You can choose between four different formats:
 
