@@ -4,9 +4,8 @@
 
 ## 😇 Getting started
 
-***
-
 * [Meet Monica](<README (1).md>)
+* [Notion of accounts](getting-started/notion-of-accounts.md)
 
 ## 🗄 Vaults
 
@@ -17,7 +16,8 @@
 ## ☸ User & Account settings
 
 * [Introduction](user-and-account-settings/introduction.md)
-* [Manage preferences](user-and-account-settings/manage-preferences.md)
 * [Manage currencies](user-and-account-settings/manage-currencies.md)
 * [Notification channels](user-and-account-settings/notification-channels.md)
 * [Manage users](user-and-account-settings/manage-users.md)
+* [Manage preferences](user-and-account-settings/manage-preferences.md)
+* [Account deletion](user-and-account-settings/account-deletion.md)
