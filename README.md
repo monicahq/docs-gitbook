@@ -1,5 +1,7 @@
 # Welcome to Monica
 
+<figure><img src=".gitbook/assets/documentation.png" alt=""><figcaption></figcaption></figure>
+
 Monica is an open-source personal CRM. It lets you document your life and your contacts. We've been doing this project since 2017 as a side project, and it has grown beyond our expectations.
 
 It is accessible from [https://app.monicahq.com](https://app.monicahq.com).
