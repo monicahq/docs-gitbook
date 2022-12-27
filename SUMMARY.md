@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prologue](README.md)
+* [Welcome to Monica](README.md)
 
 ## 😇 Getting started
 

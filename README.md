@@ -1,6 +1,6 @@
-# Prologue
+# Welcome to Monica
 
-Monica is an open-source personal CRM. It lets you document your life and your contacts. We've been doing this project since 2017 as a side project, and it has grown beyond our expectations, despite being a side project still.
+Monica is an open-source personal CRM. It lets you document your life and your contacts. We've been doing this project since 2017 as a side project, and it has grown beyond our expectations.
 
 It is accessible from [https://app.monicahq.com](https://app.monicahq.com).
 
@@ -16,10 +16,10 @@ It also means that Monica can be host by anyone **for free**, on your server or 
 
 In fact, even this documentation is open source and [hosted on Github](https://github.com/monicahq/docs-gitbook). If you see something that seems wrong, or inaccurate, you can update its content yourself and request a change.
 
-### A world of passion
+### Side project
 
-Monica is born out of passion. We, the authors ([Regis](https://twitter.com/maazarin) and [Alexis](https://twitter.com/asbin)) as well as the hundred of contributors around the world, work most of the evenings and weekends on this project.
+Monica is born out of our passion to work on tools that improve people's lives. We, the authors ([Regis](https://twitter.com/maazarin) and [Alexis](https://twitter.com/asbin)) as well as the hundred of contributors around the world, work most of the evenings and weekends on this project.
 
 We want to provide a tool that everyone can benefit from. When we hear your stories about how Monica helped you in your life, nothing makes us happier.
 
-We also want to have a tool that people love and find it cool. We are not a typical project. We don't really care about revenues, or marketing, or bullshit. We care about our users and whether the project is useful, cool and fun to work on. While some founders look at how much dollars they've raised, we look at the number of stars we have on our Github repository.
+We also want to have a tool that people love and find it cool. We are not a typical project. We don't really care about revenues, or marketing, or bullshit. We care about our users and whether the project is useful, cool and fun to work on. While some founders look at how much dollars they've raised, we look at the number of stars we have on our [Github repository](https://github.com/monicahq/chandler).
