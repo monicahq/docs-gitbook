@@ -1,6 +1,6 @@
 # Introduction
 
-Vaults are the central pieces of Monica. They contain your private data–contacts, documents, photos. You can't store something in Monica if not in a vault.
+Vaults are the central pieces of Monica. They contain your private data–contacts, documents, photos, journal entries, and so on. You can't store something in Monica if not in a vault.
 
 Vaults are private by nature.
 

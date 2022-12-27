@@ -5,7 +5,7 @@
 ## 😇 Getting started
 
 * [Meet Monica](<README (1).md>)
-* [Notion of accounts](getting-started/notion-of-accounts.md)
+* [Accounts](getting-started/accounts.md)
 
 ## 🗄 Vaults
 
