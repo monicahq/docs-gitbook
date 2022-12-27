@@ -1,4 +1,4 @@
-# Notion of accounts
+# Accounts
 
 ## What is an account?
 
@@ -22,3 +22,10 @@ When you create an account, you will be asked to create your first vault, and we
 
 You can have as many users as needed in an account. We have a [dedicated documentation about managing users](../user-and-account-settings/manage-users.md) in an account.
 
+## Accounts are populated with default options
+
+Your account will come pre-loaded with a bunch of default settings that let you be up and running in no time.
+
+For instance, genders are already defined, as well as pronouns, relationship types, ...
+
+You are not stuck with these defaults. We believe that documenting someone's life is deeply personal, and this is why we have gone great lengths to let you customize everything in Monica.
