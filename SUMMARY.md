@@ -21,3 +21,7 @@
 * [Manage users](user-and-account-settings/manage-users.md)
 * [Manage preferences](user-and-account-settings/manage-preferences.md)
 * [Account deletion](user-and-account-settings/account-deletion.md)
+
+## 🤓 Developers
+
+* [Setup Telegram](developers/setup-telegram.md)
