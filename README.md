@@ -24,4 +24,6 @@ Monica is born out of our passion to work on tools that improve people's lives. 
 
 We want to provide a tool that everyone can benefit from. When we hear your stories about how Monica helped you in your life, nothing makes us happier.
 
-We also want to have a tool that people love and find it cool. We are not a typical project. We don't really care about revenues, or marketing, or bullshit. We care about our users and whether the project is useful, cool and fun to work on. While some founders look at how much dollars they've raised, we look at the number of stars we have on our [Github repository](https://github.com/monicahq/chandler).
+We also want to have a tool that people love and find it cool. We are not a typical project. We don't really care about revenues, or marketing. We care about our users and whether the project is useful, cool and fun to work on. While some founders look at how much dollars they've raised, we look at the number of stars we have on our [Github repository](https://github.com/monicahq/chandler).
+
+One of the main advantages of Monica being a side project is the increased creativity and freedom it provides. Since side projects are not constrained by the same commercial pressures as a traditional business project, we are free to explore new ideas and take risks that they might not otherwise be able to. It also offers greater autonomy and control over the project direction and outcome. We don't have to answer to anyone but our users (and us).
