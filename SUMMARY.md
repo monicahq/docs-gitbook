@@ -10,8 +10,10 @@
 ## 🗄 Vaults
 
 * [Introduction](vaults/introduction.md)
-* [Dashboard](vaults/dashboard.md)
+* [Customizing a vault](vaults/dashboard.md)
+* [Dashboard](vaults/dashboard-1.md)
 * [Journals](vaults/journals.md)
+* [Untitled](vaults/untitled.md)
 
 ## ☸ User & Account settings
 

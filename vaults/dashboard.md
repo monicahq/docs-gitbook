@@ -1,6 +1,16 @@
-# Dashboard
+# Customizing a vault
 
 ## Introduction
+
+A vault has many features. A lot of features, in fact. It can be possible that some features are more important than others for you. You have a complete control over what you can use, show or hide.
+
+There are also some settings that are unique to a vault, while other settings are account-wide.
+
+**Why are not all settings account-wide?**
+
+Some settings should affect everything in an account, while some settings should only have an effect on a specific vault.&#x20;
+
+For instance, in a vault dedicated to your work and your colleagues, you could choose&#x20;
 
 The dashboard contains two things:
 
