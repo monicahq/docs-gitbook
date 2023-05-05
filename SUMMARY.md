@@ -27,3 +27,4 @@
 ## 🤓 Developers
 
 * [Setup Telegram](developers/setup-telegram.md)
+* [Translation](developers/translation.md)
