@@ -52,13 +52,9 @@ Putting this new string in each translation file can be super time consuming. Th
 php artisan monica:localize
 ```
 
-What remains to be done after that is simply make sure that each new string is translated within the localisation files. How to do that?
+This script also does one magic thing: it translates all the empty strings in all the locales supported by the app.
 
-Many possibilities these days:
-
-* ChatGPT (it works really well)
-* Google Translate
-* Github Copilot.
+Basically, you don't have to do anything anymore once you add new strings to the application. Monica will automatically pulls all the strings to translate in the dedicated locale files, find the new empty strings and use Google Translate to translate them for us.
 
 {% hint style="info" %}
 Do not submit a PR with new strings that are not translated in every language that we support.

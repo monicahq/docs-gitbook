@@ -23,8 +23,16 @@ For advanced users, this might not be an option that you will use. This is why w
 Monica's original language is in English, but our community has translated the application into other languages. You can change the language whenever you want, and the change will take effect immediately.
 
 {% hint style="info" %}
-Sometimes you will notice that some words in the application are not translated to your language. For instance, if you create your account in the English language, Monica will populate the account with default parameters, like the names of tabs that appear on a contact sheet for instance.\
-Because everything is customizable and you can rename these names, we can't translate them for you with the new language, unfortunately. You will have to change the translations yourself in your account preferences.
+While we do our best for the translations to be accurate, sometimes they are simply not.
+
+This is because we rely on two things for the translations:
+
+* some of them are done automatically by either ChatGPT or Google Translate,
+* the other ones are done by humans who speak the language.
+
+We can't guarantee that what you read means actually what it's supposed to mean, because of the two reasons above. We are deeply sorry if a translation is offending to you or your culture, this is 100% not our intention.
+
+If you do find errors, please contact us with the errors and we'll fix them.
 {% endhint %}
 
 ### Customize contact names[​](https://docs.monicahq.com/docs/account-settings/manage-preferences#customize-contact-names) <a href="#customize-contact-names" id="customize-contact-names"></a>
