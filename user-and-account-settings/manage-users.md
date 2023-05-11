@@ -19,7 +19,7 @@ Note that the email address of the person should not already exist in Monica by 
 
 Once the invited user clicks on the invitation link, this is the form that they will have to complete.
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Deleting users
 
@@ -39,6 +39,6 @@ To be clear: all the vaults for which the user was the sole manager of will be c
 
 To delete a user, you need to use the Delete option on the `Settings > Manage users` screen.
 
-<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Deleting a user happens immediately.
