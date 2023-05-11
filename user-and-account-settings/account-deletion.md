@@ -10,7 +10,7 @@ Only an account administrator can delete the account.
 
 ## What happens if you have a subscription?
 
-If you have a subscription, your subscription will not be cancelled automatically. We know it's a pain, but it's not because we want to f\*\*k you over. It's because we manage all the subscriptions on a different platform.
+If you have a subscription with Monica and delete your account, please note that your subscription will not be cancelled automatically. This is not intended to cause inconvenience, but rather due to the fact that we manage all subscriptions on a separate platform. Therefore, if you wish to cancel your subscription, you will need to do so manually through the platform where you originally subscribed. We apologize for any inconvenience this may cause and appreciate your understanding.
 
 You can manage your subscriptions on [the customer portal (https://customers.monicahq.com)](https://customers.monicahq.com). By the way, you can cancel your account whenever you want on this portal.
 
@@ -31,7 +31,4 @@ To be completely transparent, all these information are deleted from the main da
 
 Every day, the database is backed up in a gigantic zip file (technically, a tgz file but it's the same concept). Everything in the database is in this zip file. Files (like documents, photos and avatars) are NOT in this backup. This backup is kept for 30 days, then it's deleted forever. The backups are stored in a separate server.
 
-When we delete an account, your information will not be in the database anymore, but it will remain in the backup file for the next 30 days. Technically, we could restore it from this backup, but it's a real pain and it's super complex to do. We keep backups in case everything crashes and we need to do an emergency restore for every users in the server. We will never restore a single user from a backup.
-
-
-
+When you delete an account in Monica, all associated information is deleted from the database. However, the data remains in the backup file for the next 30 days. While it is technically possible to restore this data from the backup, **it is a complex and difficult process that we do not undertake for individual users**. Backups are primarily kept in case of emergency server crashes, and are not intended for individual data restoration. Please ensure that you have exported and saved your data before deleting an account, as it cannot be recovered after the 30-day backup retention period has expired.

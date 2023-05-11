@@ -1,12 +1,12 @@
 # Introduction
 
-Vaults are the central pieces of Monica. They contain your private data–contacts, documents, photos, journal entries, and so on. You can't store something in Monica if not in a vault.
+In Monica, vaults serve as the central repository for your private data, including contacts, documents, photos, journal entries, and more. Without a vault, you cannot store any information in Monica. By organizing your data into vaults, you can easily manage and access your information in a structured and secure manner.
 
 Vaults are private by design.
 
 Inside the same account, users who not part of a vault can't see the content of a vault, even if they are administrators of the account.
 
-Creating a vault is the first step every new user of Monica should do–as otherwise, there is nothing else to do in the account.
+Creating a vault is the first step every new user of Monica should do.
 
 There are no limits on the number of vaults in an account. The typical use case, though, is to have one vault per user in the account, and possibly a shared vault as well.
 

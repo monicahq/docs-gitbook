@@ -26,5 +26,4 @@ Your life is one-of-a-kind. Nobody else in the entire universe has the same life
 * Customizable: We believe every piece of information in Monica should be tailored to your preferences. Whenever possible, we let you personalize your experience based on your lifestyle.
 * Monica is simple and powerful. It’s easy to use for everyone, even those without technical skills. And if you need more power, we provide tools to customize it to your needs.
 * Monica is and always will be open source. Everyone can read the source code and contribute to make the software better. However, not all contributions will be accepted. We care deeply about the experience we offer our community and may reject contributions that don’t align with our vision. If you’re unsure, please ask us before submitting.
-* Also open: you can export your data at any time, in a free format. You will never be locked on our platform.
 * Private: Monica is for you alone. Your data is yours. We don’t display ads and never will. We have never sold your data and never will. We have never done so and never will.

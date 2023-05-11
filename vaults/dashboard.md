@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A vault has many features. A lot of features, in fact. It can be possible that some features are more important than others for you. You have a complete control over what you can use, show or hide.
+Monica’s vaults offer a wide range of features, and you may find that some are more relevant to your needs than others. Fortunately, you have complete control over which features you use, and can choose to show or hide them as desired. This allows you to tailor your experience to your specific needs and preferences, ensuring that you can work efficiently and effectively within the vault.
 
 There are also some settings that are unique to a vault, while other settings are account-wide.
 
@@ -10,14 +10,11 @@ There are also some settings that are unique to a vault, while other settings ar
 
 Some settings should affect everything in an account, while some settings should only have an effect on a specific vault.&#x20;
 
-For instance, in a vault dedicated to your work and your colleagues, you could choose&#x20;
+## Vault settings
 
-The dashboard contains two things:
+### Manage vault users
 
-1. The feed, and quick actions to add content.
-2. Some key data that you need to focus on.
 
-## Key data
 
 There are several pieces of data that you should keep an eye on:
 

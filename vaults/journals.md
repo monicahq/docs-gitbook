@@ -4,7 +4,9 @@
 
 Monica, as stated in our [introduction page](<../README (1).md>), is about documenting your life. It lets you document your contacts, but it should also let you document what you do with your life. Journals let you do that.
 
-A journal is a personal diary. You can document anything you want with it. Journals are deeply personal. To reflect that, we've created a structure that let you format your journal the way you want. Would you like to document your life as single entries every day? Would you like to have a travel journal with a structure like Day 1 - you've done this, Day 2 - you've done that...? Would you like to have a predefined content for each entry? With Monica, everything is possible and you are only limited by your imagination.
+In Monica, a journal is a personal diary that you can use to document anything you wish. We understand that journals are deeply personal, and that’s why we’ve designed a flexible structure that allows you to format your journal in any way you choose. Whether you prefer to document your life through daily entries, or use a structured format like a travel journal with entries for each day, Monica can accommodate your needs.&#x20;
+
+Additionally, you can create predefined content for each entry, giving you even more control over the structure and content of your journal. With Monica, the possibilities are endless, and you are only limited by your imagination.
 
 ### Differences with other diary apps
 
@@ -20,9 +22,9 @@ To understand all the possibilities of the journal in Monica, you have to unders
 
 A journal has **posts**. A **post** is the core of your journal, obviously. This is where you write things down.
 
-A post has a **template**. A **template** represents the structure of a post.
+A post follows a **template**. A **template** represents the structure of a post.
 
-Your Monica account comes with a **default template**, that you can't modify or delete. The default template is basically the title, and the body of the post.
+Your Monica account comes with a **default template**, that you can't modify or delete. The default template is composed of a title, and the body of the post.
 
 However, you can create **other templates** that have a different structure. Imagine you want to document a road trip. Or you want to ask yourself a set of questions every day: for instance, how did you feel today, or what are the five positive things that you've done today.&#x20;
 

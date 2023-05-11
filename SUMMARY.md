@@ -22,6 +22,7 @@
 * [Notification channels](user-and-account-settings/notification-channels.md)
 * [Manage users](user-and-account-settings/manage-users.md)
 * [Manage preferences](user-and-account-settings/manage-preferences.md)
+* [Manage templates](user-and-account-settings/manage-templates.md)
 * [Account deletion](user-and-account-settings/account-deletion.md)
 
 ## 🤓 Developers
