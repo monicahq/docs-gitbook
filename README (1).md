@@ -2,7 +2,7 @@
 
 ## Key concepts
 
-Monica aims to document someone's life. Your life is a series of events that happens to you, and a series of interactions with the people close to you, personally or professionally. By documenting what's happening to you, and what happens to others, we believe we can improve your lives greatly.
+Monica strives to document people’s lives. Your life is composed of events that occur to you and interactions with those close to you, both personally and professionally. By recording what happens to you and to others, we believe we can significantly enhance your life.
 
 At its core, Monica has a few key concepts:
 
@@ -10,9 +10,9 @@ At its core, Monica has a few key concepts:
 * [vaults](broken-reference)
 * contacts
 
-An account is what users sign up for when they register to Monica. It's the root element of Monica and contains everything needed to manage your data. The person who signs up for an account will be the first administrator of the account. You can add other administrators if you want in the future, but an account needs at least one administrator. You can also add other users who won't be administrators, thus reducing their privileges and preventing them to do unwanted changes.
+When users register for Monica, they create an account. This account is the foundation for managing all their data. The person who creates the account is the first administrator. If desired, additional administrators can be added later. Other users can also be added to the account, but they won’t have the same privileges as administrators, which prevents them from making unwanted changes.
 
-A vault hosts user's data – basically contacts, documents etc... An account can have as many vaults as needed. Vaults are private inside an account. This means that other users in the account, even if they are administrators of the account, cannot read data in a vault if there are not part of this vault. They can’t even see that the vault exists.
+Vaults host users’ data, such as contacts and documents. An account can have multiple vaults. Vaults are private within an account, so other users in the account, even if they are administrators, cannot read the data in a vault unless they are part of that vault. They cannot even see that the vault exists.
 
 A contact is the core data of Monica. It's someone you know (or think you know). A contact lives inside a vault. Monica lets you document everything about this contact, including their social graph: children, family, and so on.
 
@@ -20,11 +20,11 @@ The idea is for you to create contact sheets for each of the people you want to 
 
 ## Principles <a href="#core-philosophy-of-the-product" id="core-philosophy-of-the-product"></a>
 
-Your life is unique to you. No one else in the entire universe has the same life and values that you have. This is why we have built Monica around the following values:
+Your life is one-of-a-kind. Nobody else in the entire universe has the same life and values as you. That’s why we created Monica based on these values:
 
-* Inclusive: we do not discrimate on the basis of race, color, religion, gender, national origin (ancestry), disability, marital status or sexual orientation. Everything we do in Monica supports this. Who are we to judge?
-* Customizable: we believe that every single piece of information in Monica should be customizable to your own taste. Whenever we can, we will let you personalize your experience based on what you live in your life.
-* Simple, yet powerful: the default experience should be easy to use for everyone, and anyone without any technical skills should be able to use the software. However, if you need more power, we will give you tools to bend Monica to your will.
-* Open: Monica is and always will be open source. Anyone can read the source code. Anyone can contribute to make the software better, but that doesn't mean we will accept every contribution. We deeply care about the experience we want to provide to our community, and sometimes, there are contributions that we don't want to support. It might piss you off, but please ask us before submitting something if you are not sure.
+* We do not discriminate based on race, color, religion, gender, national origin (ancestry), disability, marital status or sexual orientation. Everything we do at Monica is in support of this commitment. We do not judge.
+* Customizable: We believe every piece of information in Monica should be tailored to your preferences. Whenever possible, we let you personalize your experience based on your lifestyle.
+* Monica is simple and powerful. It’s easy to use for everyone, even those without technical skills. And if you need more power, we provide tools to customize it to your needs.
+* Monica is and always will be open source. Everyone can read the source code and contribute to make the software better. However, not all contributions will be accepted. We care deeply about the experience we offer our community and may reject contributions that don’t align with our vision. If you’re unsure, please ask us before submitting.
 * Also open: you can export your data at any time, in a free format. You will never be locked on our platform.
-* Private: Monica is for your eyes only. Your data belongs to you. We don't serve ads, never have (for 7+ years) and never will. We haven't and won't sell your data to anyone.
+* Private: Monica is for you alone. Your data is yours. We don’t display ads and never will. We have never sold your data and never will. We have never done so and never will.

@@ -22,8 +22,8 @@ In fact, even this documentation is open source and [hosted on Github](https://g
 
 Monica is born out of our passion to work on tools that improve people's lives. We, the authors ([Regis](https://twitter.com/maazarin) and [Alexis](https://twitter.com/asbin)) as well as the hundred of contributors around the world, work most of the evenings and weekends on this project.
 
-We want to provide a tool that everyone can benefit from. When we hear your stories about how Monica helped you in your life, nothing makes us happier.
+We aim to offer a tool that everyone can use to their advantage. Hearing your stories about how Monica improved your life brings us immense joy.
 
-We also want to have a tool that people love and find it cool. We are not a typical project. We don't really care about revenues, or marketing. We care about our users and whether the project is useful, cool and fun to work on. While some founders look at how much dollars they've raised, we look at the number of stars we have on our [Github repository](https://github.com/monicahq/chandler).
+We’re not a typical project. We don’t prioritize revenue or marketing—we care about our users and whether our project is useful, cool, and fun. Other founders might focus on the amount of money they’ve raised, but we measure success by the number of stars our GitHub repository has. We want to create a tool that people love and find cool.
 
-One of the main advantages of Monica being a side project is the increased creativity and freedom it provides. Since side projects are not constrained by the same commercial pressures as a traditional business project, we are free to explore new ideas and take risks that they might not otherwise be able to. It also offers greater autonomy and control over the project direction and outcome. We don't have to answer to anyone but our users (and us).
+The primary benefit of Monica being a side project is the heightened creativity and freedom it offers. Side projects are not tied to the same commercial demands as traditional business projects, allowing us to explore new concepts and take risks we may not have taken otherwise. It also provides more autonomy and control over the project’s direction and outcome. We are only accountable to our users (and ourselves).
