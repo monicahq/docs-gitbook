@@ -9,10 +9,12 @@ Monica is a Laravel application. That means it requires this setup:
 * Composer
 * MySQL
 
-You can find more details on the Laravel documentation website.
+You can find more details on the [Laravel documentation website](https://laravel.com/docs/master/installation).
 
-1. Install PHP and a web server like Nginx. If you are on macOS, we recommend [Valet](https://laravel.com/docs/9.x/valet)
-2. Install [SQLite](https://formulae.brew.sh/formula/sqlite) or MySQL
+Here are the steps that we suggest you to follow:
+
+1. Install PHP and a web server like Nginx. If you are on macOS, we recommend [Valet](https://laravel.com/docs/9.x/valet).
+2. Install [SQLite](https://formulae.brew.sh/formula/sqlite) or MySQL.
 3. `composer install --no-progress --no-interaction --prefer-dist --optimize-autoloader`
 4. `yarn install --frozen-lockfile`
 5. `cp .env.example .env` and configure `.env` file

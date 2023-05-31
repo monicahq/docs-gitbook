@@ -27,5 +27,6 @@
 ## 🤓 Developers
 
 * [Setup local development](developers/setup-local-development.md)
+* [Docker](developers/docker.md)
 * [Setup Telegram](developers/setup-telegram.md)
 * [Translation](developers/translation.md)
