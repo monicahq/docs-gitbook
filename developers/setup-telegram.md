@@ -13,9 +13,9 @@ Follow the first steps described in [https://docs.microsoft.com/en-us/azure/bot-
 Locate the .env file and fill these three variables that are about Telegram.
 
 ```shell
-TELEGRAM_BOT_TOKEN=393828013:AAEaw8ewefwhKIdkW2EIy23ksVY51XQqsV7o_3M
+TELEGRAM_BOT_TOKEN=393828013:AAEaw8ewefwhKIdkW2E
 TELEGRAM_BOT_URL=https://t.me/monicahq_bot
-TELEGRAM_BOT_WEBHOOK_URL=lkjl2kjl2k323oIOWEJFkek
+TELEGRAM_BOT_WEBHOOK_URL=lkjl2kjl2k3232IOWEJFkek
 ```
 
 The _bot token_ is given by Telegram after you create the bot.
