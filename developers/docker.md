@@ -24,7 +24,7 @@ Note that you'll need to setup a mail mailer to be able to register a user. You 
 docker run -p 8080:80 -e MAIL_MAILER=log ghcr.io/monicahq/monica-next:main
 ```
 
-For more complex scenario (database setup, queue, etc.) see https://github.com/monicahq/docker/tree/main/.examples
+For more complex scenario (database setup, queue, etc.) see [https://github.com/monicahq/docker/tree/main/.examples](https://github.com/monicahq/docker/tree/main/.examples)
 
 #### Build it yourself
 
