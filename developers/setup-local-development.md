@@ -4,7 +4,7 @@ These are the steps required to setup the local development.
 
 Monica is a Laravel application. That means it requires this setup:
 
-* PHP 8.1 or newer
+* PHP 8.2 or newer
 * HTTP server with PHP support (eg: Apache, Nginx, Caddy)
 * Composer
 * MySQL
